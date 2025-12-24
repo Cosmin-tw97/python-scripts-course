@@ -1,4 +1,4 @@
-from .decorators import log_task_completion
+from decorators import log_task_completion
 
 
 class TaskManager:
